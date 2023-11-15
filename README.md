@@ -1,9 +1,9 @@
 # JEDHA_Bloc-3
 This repository contains my projects for the validation of Bloc 3 of the RNCP certificate.
 It contains 3 project folders : 
-    1. Walmart Sales Project (Supervised Machine Learning)
-    2. Conversion Rate Project (Supervised Machine Learning)
-    3. NorthFace E-Commerce NLP Project (Unsupervised Machine Learning)
+- 1. Walmart Sales Project (Supervised Machine Learning)
+- 2. Conversion Rate Project (Supervised Machine Learning)
+- 3. NorthFace E-Commerce NLP Project (Unsupervised Machine Learning)
 
 See the description for each project below.
 
@@ -40,7 +40,7 @@ To complete this project:
 
 # 2) Conversion Rate Challenge
 
-# Challenge : predict conversions 🏆🏆
+## Challenge : predict conversions 🏆🏆
 In this project, you will participate to a machine learning competition like the ones that are organized by https://www.kaggle.com/. You will be able to work with jupyter notebooks as usual, but in the end you'll have to submit your model's predictions to your teacher/TA, so your model's performances will be evaluated in an independent way. The scores achieved by the different teams will be stored into a leaderboard 🏅🏅
 
 ## Description of a machine learning challenge 🚴🚴
